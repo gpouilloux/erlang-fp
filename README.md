@@ -1,4 +1,4 @@
-# Erlang - Functional programming exercices
+# Erlang - Functional programming exercises
 
 Inspired by a Haskell training at [MinesNantes](http://www.mines-nantes.fr/en/)
 
